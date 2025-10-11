@@ -39,7 +39,7 @@ The **DVLD System** provides a complete workflow for managing the driving licens
 ## ⚙️ How to Run
 1. Restore the provided `DVLD.bak` database in SQL Server.  
 2. Update the connection string in the Settings class inside the data access layer if needed.  
-3. Open `FullRealProject.sln` in Visual Studio.  
+3. Open the `.sln` file in Visual Studio.  
 4. Build and run the project.
 
 ---
