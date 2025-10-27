@@ -41,6 +41,8 @@ The **DVLD System** provides a complete workflow for managing the driving licens
 2. Update the connection string in the Settings class inside the data access layer if needed.  
 3. Open the `.sln` file in Visual Studio.  
 4. Build and run the project.
+5. Username : Admin
+6. Password : 1234
 
 ---
 
